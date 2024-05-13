@@ -1,26 +1,17 @@
-AutoMapper
-SignalR
-Triggers
-Ajax
-Js
-Mesaj Gönderme
-
-
-
-Yapılacaklar
-Bu Günün Kazancı kısmı düzeltilecek
-_DefaultBookATableComponentPartial türkçeleştirilecek
-Producta özgü metot yazılacak ve _defaultourmenu kısmında yemekler katagori halinde getirilecek
-Ana Sayfada Menude Katoegorilere göre yiyecekler gelecek.
-projede revizeye gidilecek ve sepet kısmına status getirilerek açık siparişler aktif ödenen sepetler ise pasif yapılacak
-sepet kısmında seçilen masa gelecek şekilde revize yapılacak.(sipariş verirken önce masa seçtirilip ardından masaya göre basket indexe id göndererek revize yapılabilir.)
-Admin area kısmı yapılacak ve admin controllerları ayrılacak.
-MessageControllerdaki anlık mesajlaşmalar için veritabanı ayarlanacak ve mesajlar kaydedilecek.
-Bildirim kısmında mesaja tıklanınca mesaj açılacak bir sayfa ayarlanacak ve o mesajın statusu false yapılacak ve mesaj bildirimlerden kalkacak.
-rezervasyon yapıldıktan sonra rezervasyonunuz alınmıştır yazısı indexe gönderilecek(BookATableController)
-*Rezervasyonlar sayfasına seçenek eklenecek ve oradan iptal edilen onaylanan vs rezervasyonlar kategori olarak ayrı ayrı gösterilecek.
-*** sepette aynı ürün üstüne ekleneck
-****qr code çözülecek ve her masa için ayrı ayrı qr code oluşturulacak. bu qr codalar okununca o masanın idsi kullanılarak menü açılacak
-Yapıldı.**Rezervasyon sayfasında mail gönder butonu olacak ve mail gönderme sayfasına giderken seçtiğin rezervasyondaki maili alıp alıcı mail kısmına yazacak.
-dashboardda static kalan alanlar dinamik yapılacak.
+YapÄ±lacaklar
+Bu GÃ¼nÃ¼n KazancÄ± kÄ±smÄ± dÃ¼zeltilecek
+_DefaultBookATableComponentPartial tÃ¼rkÃ§eleÅŸtirilecek
+Producta Ã¶zgÃ¼ metot yazÄ±lacak ve _defaultourmenu kÄ±smÄ±nda yemekler katagori halinde getirilecek
+Ana Sayfada Menude Katoegorilere gÃ¶re yiyecekler gelecek.
+projede revizeye gidilecek ve sepet kÄ±smÄ±na status getirilerek aÃ§Ä±k sipariÅŸler aktif Ã¶denen sepetler ise pasif yapÄ±lacak
+sepet kÄ±smÄ±nda seÃ§ilen masa gelecek ÅŸekilde revize yapÄ±lacak.(sipariÅŸ verirken Ã¶nce masa seÃ§tirilip ardÄ±ndan masaya gÃ¶re basket indexe id gÃ¶ndererek revize yapÄ±labilir.)
+Admin area kÄ±smÄ± yapÄ±lacak ve admin controllerlarÄ± ayrÄ±lacak.
+MessageControllerdaki anlÄ±k mesajlaÅŸmalar iÃ§in veritabanÄ± ayarlanacak ve mesajlar kaydedilecek.
+Bildirim kÄ±smÄ±nda mesaja tÄ±klanÄ±nca mesaj aÃ§Ä±lacak bir sayfa ayarlanacak ve o mesajÄ±n statusu false yapÄ±lacak ve mesaj bildirimlerden kalkacak.
+rezervasyon yapÄ±ldÄ±ktan sonra rezervasyonunuz alÄ±nmÄ±ÅŸtÄ±r yazÄ±sÄ± indexe gÃ¶nderilecek(BookATableController)
+*Rezervasyonlar sayfasÄ±na seÃ§enek eklenecek ve oradan iptal edilen onaylanan vs rezervasyonlar kategori olarak ayrÄ± ayrÄ± gÃ¶sterilecek.
+*** sepette aynÄ± Ã¼rÃ¼n Ã¼stÃ¼ne ekleneck
+****qr code Ã§Ã¶zÃ¼lecek ve her masa iÃ§in ayrÄ± ayrÄ± qr code oluÅŸturulacak. bu qr codalar okununca o masanÄ±n idsi kullanÄ±larak menÃ¼ aÃ§Ä±lacak
+YapÄ±ldÄ±.**Rezervasyon sayfasÄ±nda mail gÃ¶nder butonu olacak ve mail gÃ¶nderme sayfasÄ±na giderken seÃ§tiÄŸin rezervasyondaki maili alÄ±p alÄ±cÄ± mail kÄ±smÄ±na yazacak.
+dashboardda static kalan alanlar dinamik yapÄ±lacak.
 
