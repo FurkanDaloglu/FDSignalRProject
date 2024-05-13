@@ -1,0 +1,6 @@
+@FDSignalRApi_HostAddress = http://localhost:5291
+
+GET {{FDSignalRApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

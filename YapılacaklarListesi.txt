@@ -1,0 +1,26 @@
+AutoMapper
+SignalR
+Triggers
+Ajax
+Js
+Mesaj Gönderme
+
+
+
+Yapýlacaklar
+Bu Günün Kazancý kýsmý düzeltilecek
+_DefaultBookATableComponentPartial türkçeleþtirilecek
+Producta özgü metot yazýlacak ve _defaultourmenu kýsmýnda yemekler katagori halinde getirilecek
+Ana Sayfada Menude Katoegorilere göre yiyecekler gelecek.
+projede revizeye gidilecek ve sepet kýsmýna status getirilerek açýk sipariþler aktif ödenen sepetler ise pasif yapýlacak
+sepet kýsmýnda seçilen masa gelecek þekilde revize yapýlacak.(sipariþ verirken önce masa seçtirilip ardýndan masaya göre basket indexe id göndererek revize yapýlabilir.)
+Admin area kýsmý yapýlacak ve admin controllerlarý ayrýlacak.
+MessageControllerdaki anlýk mesajlaþmalar için veritabaný ayarlanacak ve mesajlar kaydedilecek.
+Bildirim kýsmýnda mesaja týklanýnca mesaj açýlacak bir sayfa ayarlanacak ve o mesajýn statusu false yapýlacak ve mesaj bildirimlerden kalkacak.
+rezervasyon yapýldýktan sonra rezervasyonunuz alýnmýþtýr yazýsý indexe gönderilecek(BookATableController)
+*Rezervasyonlar sayfasýna seçenek eklenecek ve oradan iptal edilen onaylanan vs rezervasyonlar kategori olarak ayrý ayrý gösterilecek.
+*** sepette ayný ürün üstüne ekleneck
+****qr code çözülecek ve her masa için ayrý ayrý qr code oluþturulacak. bu qr codalar okununca o masanýn idsi kullanýlarak menü açýlacak
+Yapýldý.**Rezervasyon sayfasýnda mail gönder butonu olacak ve mail gönderme sayfasýna giderken seçtiðin rezervasyondaki maili alýp alýcý mail kýsmýna yazacak.
+dashboardda static kalan alanlar dinamik yapýlacak.
+
